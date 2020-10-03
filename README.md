@@ -2,6 +2,8 @@
 
 ### Final-project in web programming (currently in development)
 
+#### Description: web app will be used for keeping track of read books, creating community of booklovers. 
+
 * Main page
   * search by book tittle
   * search by author name
